@@ -1,0 +1,4 @@
+Flask
+matplotlib
+SQLAlchemy
+Flask-JWT-Extended
